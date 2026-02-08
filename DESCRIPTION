@@ -1,9 +1,9 @@
 Package: montyhall
-Title: What the Package Does (One Line, Title Case)
+Title: Monty hall game package.
 Version: 0.0.0.9000
 Authors@R: 
     person("Micah", "Stone", , "mdstone5@asu.edu", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Monty hall game package.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
